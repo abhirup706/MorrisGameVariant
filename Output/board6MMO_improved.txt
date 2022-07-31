@@ -1,0 +1,3 @@
+BoardPosition:			WBWXXXXXXXXXXXXX
+Positions Evaluated:	546802
+MINIMAX estimate:		6
